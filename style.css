@@ -6,8 +6,8 @@ body {
 }
 
 .container {
-  background: #ecf4ff;
-  color: #1c1c1c;
+  background: #333439;
+  color: #f6f6f6;
   margin: 64px;
   border-radius: 20px;
   box-shadow: 6px 6px 6px #0e1d2f;
@@ -48,7 +48,8 @@ body {
   font-weight: 400;
   font-size: 24px;
   padding: 8px 16px;
-  background: #ecf4ff;
+  background: #1c1c1c;
+  color: #ffffff;
   border-radius: 100px;
 }
 
@@ -85,8 +86,8 @@ body {
 }
 
 .dark .container {
-  background: #333439;
-  color: #f6f6f6;
+  background: #ecf4ff;
+  color: #1c1c1c;
 }
 
 .dark .projetos {
@@ -94,7 +95,7 @@ body {
 }
 
 .dark .tema button {
-  background: #1c1c1c;
-  color: #ffffff;
-  border: 2px solid #f7f7f7;
+  background: #ecf4ff;
+  color: #1c1c1c;
+  border: 2px solid #1c1c1c;
 }
