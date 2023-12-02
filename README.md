@@ -1,0 +1,1 @@
+Project made on alura's #imersaodev and aims on exercise CSS and JS skills.
